@@ -9,7 +9,7 @@ class Dog
   end
   
   def bark
-    this_dogs.bark
+    name.bark
     puts "woof!"
   end 
   
